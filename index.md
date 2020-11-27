@@ -27,3 +27,8 @@
 
 - Conectate a nuestro [servidor de discord](https://discord.gg/G5Sjnd2RgG) el siguiente Jueves a las 7:00pm CST
  
+## ¿Donde consigo más información?
+
+- Síguenos en [Twitter](https://twitter.com/livehacknights)
+- Entra a nuestro servidor de [Discord](https://discord.gg/G5Sjnd2RgG)
+- Envíanos un mail a [lhn@mackaber.me](mailto:lhn@mackaber.me)
