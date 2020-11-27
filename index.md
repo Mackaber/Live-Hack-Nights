@@ -1,5 +1,9 @@
 # Live Hack Nights
 
+![logo]
+
+[logo]: ./lhn_logo.png "Live Hack Nights logo"
+
 ## El concepto
 
 - Desarrollaremos una idea de negocio en vivo todos los Jueves de 7:00pm ~ 10:00pm CST. 
