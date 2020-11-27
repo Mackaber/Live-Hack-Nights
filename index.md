@@ -36,3 +36,4 @@
 - Síguenos en [Twitter](https://twitter.com/livehacknights)
 - Entra a nuestro servidor de [Discord](https://discord.gg/G5Sjnd2RgG)
 - Envíanos un mail a [lhn@mackaber.me](mailto:lhn@mackaber.me)
+- Subscribete a nuestro canal de [Youtube](https://www.youtube.com/channel/UCzRhoVSECf4OogycOLgD3QQ)
